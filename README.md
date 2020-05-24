@@ -1,2 +1,1 @@
-# git_practice
-coursera - git - course exam
+I am editing the README.md file. Adding some more details about the project description.
